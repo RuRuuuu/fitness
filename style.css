@@ -56,26 +56,5 @@ text-shadow: 0px 11px 10px rgba(81,67,21,0.9);
     color: #a49b17;
 text-shadow: 0px 2px 3px rgba(81,67,21,0.8);
    cursor: pointer;
+   
   }
-
-  .class1{
-    background-image: linear-gradient(to right, #00b09b, #96c93d);
-  }
-    .class2{
-        background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500);
-    }
-    .class3{
-        background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);
-    }
-
-    .class4{
-        background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
-    }
-
-    .class5{
-        background-image: linear-gradient(to right, #DECBA4, #3E5151);
-    }
-
-    .class6{
-        background-image: linear-gradient(to right, #8360c3, #2ebf91);
-    }

@@ -6,7 +6,7 @@ console.log($("#name1"))
 
 $("#name1").on("click", function(){
     $("#name1").addClass("new")
-    $("#main").addClass("class1")
+    $("#main").css("background-color", "aliceblue")
     $("#name2").css("color","blue");
     $("#name3").css("color","brown");
     $("#name4").css("color","aqua");
@@ -23,7 +23,7 @@ $("#name1").on("click", function(){
 
 $("#name2").on("click", function(){
     $("#name2").addClass("new")
-    $("#main").addClass("class2");
+    $("#main").css("background-color", "coral")
     $("#name1").css("color","red");
     $("#name3").css("color","black");
     $("#name4").css("color","green");
@@ -65,7 +65,7 @@ $("#name3").on("click", function(){
 
 $("#name4").on("click", function(){
     $("#name4").addClass("new")
-    $("#main").addClass("class4");
+    $("#main").css("background-color", "burlywood");
     $("#name1").css("color","green");
     $("#name2").css("color","#6e5773");
     $("#name3").css("color","#8ab2ff");
@@ -85,7 +85,7 @@ $("#name4").on("click", function(){
 
 $("#name5").on("click", function(){
     $("#name5").addClass("new")
-    $("#main").addClass("class5");
+    $("#main").css("background-color", "olive");
     $("#name1").css("color","black");
     $("#name2").css("color","#8d0033");
     $("#name3").css("color","#1c1259");
@@ -104,7 +104,7 @@ $("#name5").on("click", function(){
 
 $("#name6").on("click", function(){
     $("#name6").addClass("new")
-    $("#main").addClass("class1");
+    $("#main").css("background-color", "khaki")
     $("#name1").css("color","purple");
     $("#name2").css("color","#faa9df");
     $("#name3").css("color","#fc7fb6");
