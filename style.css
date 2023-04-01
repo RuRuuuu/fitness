@@ -14,25 +14,25 @@ body{
 
 .anime{
     width:17vw;
-    height:38vh;
+    height:37vh;
     box-shadow: 4px 5px 8px rgb(0, 0, 0, 0.9);
     
 }
 .anime2{
-    margin-top: 60px;
+    margin-top: 64px;
     width:17vw;
-    height:38vh;
+    height:37vh;
     box-shadow: 4px 5px 8px rgb(0, 0, 0, 0.9);
     
 }
  .main1{
     display:flex;
     justify-content: space-around;
-    margin-top: 19px;
+    margin-top:20px;
  }
 
  .main2{
-    margin-top: 18px;
+    margin-top: 22px;
     display:flex;
     justify-content: space-evenly;
  }
